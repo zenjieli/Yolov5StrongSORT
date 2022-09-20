@@ -1,1 +1,5 @@
 .vscode/
+runs/
+weights/*.pt
+__pycache__
+data
